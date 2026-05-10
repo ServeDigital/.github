@@ -1,5 +1,3 @@
-# Serve Digital
-
 <div align="center">
 
 <img src="/assets/logo.png" alt="Serve Digital Logo" width="400">
