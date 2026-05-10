@@ -1,4 +1,4 @@
-# 🚀 Serve Digital
+# Serve Digital
 
 <div align="center">
 
@@ -62,9 +62,9 @@ Ready to unlock value for your organization?
 
 | Contact Method  | Details                                                     |
 | --------------- | ----------------------------------------------------------- |
-| 📧 **Email**    | [info@servedigital.io](mailto:info@servedigital.io)         |
-| 🌐 **Website**  | [servedigital.io](https://servedigital.io)                  |
-| 💼 **LinkedIn** | [Serve Digital](https://linkedin.com/company/serve-digital) |
+|  **Email**    | [info@servedigital.io](mailto:info@servedigital.io)         |
+|  **Website**  | [servedigital.io](https://servedigital.io)                  |
+|  **LinkedIn** | [Serve Digital](https://linkedin.com/company/serve-digital) |
 
 </div>
 
@@ -74,7 +74,7 @@ Ready to unlock value for your organization?
 
 **Serve Digital – Powering Africa's Digital Future**
 
-_© 2025 Serve Digital. All rights reserved._
+_© 2026 Serve Digital. All rights reserved._
 
 [![Made with ❤️ in Africa](https://img.shields.io/badge/Made%20with%20❤️%20in-Africa-green?style=flat-square)](https://servedigital.io)
 
